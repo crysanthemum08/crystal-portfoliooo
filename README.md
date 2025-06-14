@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # crystal-portfolio2025
 OJT Portfolio
 >>>>>>> 06d814b8c754eaeb46d06058cf65526f4412a832
+=======
+# crystal-portfoliooo
+>>>>>>> b8eefd5b7b894b4ec1e72ae0190f31045cbe0c6f
